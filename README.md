@@ -24,6 +24,12 @@ Die Datei `wartezeiten-index-2026-09-08.json` ist eine Kopie des Live-Endpunkts 
 
 Ein Amt kommt erst nach mindestens drei Messungen an verschiedenen Tagen in die Rangliste und nur mit derselben Referenzleistung, der Neuzulassung. Kurzfristig durch Stornierungen frei werdende Termine fließen nicht in die Kennzahlen ein.
 
+## Zitierfähige Fassung (DOI)
+
+Die Momentaufnahme vom 8. September 2026 ist auf Zenodo archiviert und zitierfähig:
+
+> Zulassungsautomat (2026). Wartezeiten-Index deutscher Kfz-Zulassungsstellen (Momentaufnahme 8. September 2026) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22666388
+
 ## Lizenz und Zitierweise
 
 Daten und Texte stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Verwendung, auch redaktionell, ist mit Quellenangabe erlaubt:
