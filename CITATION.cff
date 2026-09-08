@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: Wartezeiten-Index deutscher Kfz-Zulassungsstellen
+message: >-
+  Wenn Sie diesen Datensatz verwenden, zitieren Sie ihn bitte
+  wie unten angegeben.
+type: dataset
+authors:
+  - name: Zulassungsautomat
+    website: https://zulassungsautomat.de
+    city: Dorsten
+    country: DE
+    email: info@zulassungsautomat.de
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22666388
+    description: Momentaufnahme vom 8. September 2026 auf Zenodo
+repository-code: https://github.com/mohamedgabal1995-afk/wartezeiten-index
+url: https://zulassungsautomat.de/wartezeiten
+abstract: >-
+  Offener Datensatz mit dem laufend gemessenen Vorlauf bis zum
+  naechsten regulaer buchbaren Termin bei deutschen
+  Kfz-Zulassungsbehoerden. Die Messung liest mehrmals taeglich die
+  oeffentlich sichtbare Verfuegbarkeit in den offiziellen
+  Terminportalen von 398 Zulassungsbehoerden aus. Es werden keine
+  Termine gebucht, blockiert oder reserviert.
+keywords:
+  - Kfz-Zulassung
+  - Zulassungsstelle
+  - Wartezeit
+  - Terminvorlauf
+  - offene Daten
+  - Deutschland
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-09-08"
