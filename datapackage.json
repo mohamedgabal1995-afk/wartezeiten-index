@@ -1,0 +1,48 @@
+{
+  "name": "wartezeiten-index",
+  "title": "Wartezeiten-Index deutscher Kfz-Zulassungsstellen",
+  "description": "Laufend gemessener Vorlauf bis zum naechsten regulaer buchbaren Termin bei deutschen Kfz-Zulassungsbehoerden.",
+  "homepage": "https://zulassungsautomat.de/wartezeiten",
+  "version": "1.0.0",
+  "created": "2026-09-08",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Zulassungsautomat",
+      "email": "info@zulassungsautomat.de",
+      "path": "https://zulassungsautomat.de",
+      "role": "author"
+    }
+  ],
+  "keywords": [
+    "Kfz-Zulassung",
+    "Zulassungsstelle",
+    "Wartezeit",
+    "Terminvorlauf",
+    "offene Daten",
+    "Deutschland"
+  ],
+  "id": "https://doi.org/10.5281/zenodo.22666388",
+  "resources": [
+    {
+      "name": "latest",
+      "path": "https://zulassungsautomat.de/wartezeiten-index.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "title": "Live-Endpunkt, bei jeder Messung neu erzeugt"
+    },
+    {
+      "name": "snapshot-2026-09-08",
+      "path": "wartezeiten-index-2026-09-08.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "title": "Momentaufnahme vom 8. September 2026"
+    }
+  ]
+}
