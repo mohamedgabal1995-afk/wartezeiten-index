@@ -30,6 +30,16 @@ Die Momentaufnahme vom 8. September 2026 ist auf Zenodo archiviert und zitierfä
 
 > Zulassungsautomat (2026). Wartezeiten-Index deutscher Kfz-Zulassungsstellen (Momentaufnahme 8. September 2026) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22666388
 
+## Spiegel dieses Datensatzes
+
+Derselbe Datensatz ist zusätzlich auf folgenden Plattformen abrufbar:
+
+- Zenodo (archiviert, mit DOI): https://doi.org/10.5281/zenodo.22666388
+- Hugging Face Datasets: https://huggingface.co/datasets/zulassungsautomat/wartezeiten-index-kfz-zulassungsstellen
+- Kaggle Datasets: https://www.kaggle.com/datasets/mohamedgabal122/german-vehicle-registration-waiting-times
+
+Maßgeblich bleibt der Live-Endpunkt auf zulassungsautomat.de; die Spiegel sind Momentaufnahmen.
+
 ## Lizenz und Zitierweise
 
 Daten und Texte stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Verwendung, auch redaktionell, ist mit Quellenangabe erlaubt:
